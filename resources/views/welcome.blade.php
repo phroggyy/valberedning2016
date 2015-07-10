@@ -15,7 +15,6 @@
                 margin: 0;
                 padding: 0;
                 width: 100%;
-                display: table;
                 font-weight: 100;
                 font-family: 'Lato';
             }
@@ -28,7 +27,7 @@
             .content {
             	height: 100vh;
             	width: 100%;
-            	margin-top: 30vh;
+            	padding-top: 30vh;
                 text-align: center;
                 display: inline-block;
             }
@@ -42,8 +41,8 @@
         <div class="custom-container">
             <div class="content">
                 <div class="title">
-                	Valberedning 2016 <br/>
-                	<small><em>EUP Sverige</em></small>
+                	<h1>Valberedning 2016</h1>
+                	<p><small><em>EUP Sverige</em></small></p>
             	</div>
             </div>
         </div>
