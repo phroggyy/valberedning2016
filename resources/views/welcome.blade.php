@@ -22,13 +22,13 @@
 
             .custom-container {
                 text-align: center;
-                display: table-cell;
-                vertical-align: middle;
+                width: 100%;
             }
 
             .content {
             	height: 100vh;
             	width: 100%;
+            	margin-top: 30vh;
                 text-align: center;
                 display: inline-block;
             }
